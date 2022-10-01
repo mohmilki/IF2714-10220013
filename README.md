@@ -4,7 +4,9 @@ MEMBANDINGKAN 2 ARTIKEL
 1. Vaksinasi Booster di Stadion Patriot Candrabhaga, Bandung
    - Grafik kemunculan kata-kata pada isi berita tersebut tanpa adanya pemilahan kata
    ![download](https://user-images.githubusercontent.com/73022578/192273275-d73e5414-a081-4ada-a762-be4c920e312a.png)
+   
    - Grafik kemunculan kata-kata pada berita tersebut dengan melakukan cleaning (menghapus kata-kata yang tidak berguna)
+   
    ![download](https://user-images.githubusercontent.com/73022578/192273310-ad63d6af-b61e-4656-a81b-fbb51140782a.png)
    - Grafik kemunculan kata-kata 25 terbanyak
    
